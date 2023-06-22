@@ -1,6 +1,6 @@
 ## Mocup_Data 
 
-#### Note:  Mockup Data PDF file Of SQL in master branch.
+#### Note: Mockup Data PDF file Of SQL in master branch.
 
 ### Description Of Mockup Data:
 
