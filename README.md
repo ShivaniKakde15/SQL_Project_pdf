@@ -4,7 +4,7 @@
 
 ### Description Of Mockup Data:
 
-#### In this project two tables are given with whole data, one is users and  second one is progress table. Firstly I saw the whole details of tables using select * from table_name command.
+#### In this project two tables are given with the whole data, one is users and  second one is progress table. Firstly I saw the whole details of tables using select * from table_name command.
 
 #### The Second query retrieves the email domains from the users table that end with '.edu', counts the occurrences of each domain, groups the result by domain, orders it in descending order of the count, and returns the top 25 results.
 
