@@ -2,7 +2,7 @@
 
 #### Note: SQL Mockup Data PDF file in master branch.
 
-### Description:
+### Description Of Mockup Data:
 
 #### In this project two tables are given with whole data, one is users and  second one is progress table. Firstly I saw the whole details of tables using select * from table_name command.
 
