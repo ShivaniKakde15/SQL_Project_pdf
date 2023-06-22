@@ -14,5 +14,5 @@
 
 #### Fifth query is to retrieve the 'sign_up_at' column from the users table along with the hour component extracted from it.
 
-#### Sixth query is to retrieve data from the "users" and "progress" tables, join them using 'JOIN' keyword, based on the "user_id" column.
+#### Sixth query is to retrieve data from the "users" and "progress" tables, and join them using 'JOIN' keyword, based on the "user_id" column.
 
